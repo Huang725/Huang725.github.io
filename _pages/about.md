@@ -18,6 +18,6 @@ CV
 ==
 You can find my CV here:[Huang Minghui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-CINTACT ME
+CONTACT ME
 ==========
 [Email](mailto:1487917102@qq.com) /[Phone](199 6221 5599)/ [Wechat](../image/wechat.jpg)
