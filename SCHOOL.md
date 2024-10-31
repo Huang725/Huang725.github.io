@@ -4,7 +4,7 @@ title: "My school"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /pages
 ---
 
 {% include base_path %}
