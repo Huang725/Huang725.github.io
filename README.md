@@ -3,9 +3,9 @@
 **I am a positive girl with a lot of hobbies.**
 
 
-**Reading**
-Reading always makes me calm down and relax.
-![reading](images/reading.png "reading")
+**Travelling**
+Travelling always makes me calm down and relax.
+![travelling](images/travelling.png "travelling")
 
 
 **Competition**
