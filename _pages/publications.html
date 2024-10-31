@@ -1,36 +1,22 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+**INTERESTS**
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**I am a positive girl with a lot of hobbies.**
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+**Travelling**
+Travelling always makes me calm down and relax.
+![travelling](images/travelling.png "travelling")
+
+
+**Competition**
+I enjoy the intense atmosphere of the game, which can also improve my personal ability 
+![competition](images/competition.png "competition")
+
+
+**Taking photos**
+I like to record myself and my life with photos. Every day is meaningful
+![photo1](images/photo1.png "photo1")
+![photo2](images/photo2.png "photo2")
 
 
 
